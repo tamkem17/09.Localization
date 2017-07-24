@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">09.Localization</string>
+    <string name="have_fun">Have fun</string>
+    <string name="do_something">Do something</string>
+    <string name="click_here">Click here</string>
+    <string name="surprise">Surprise</string>
+</resources>
